@@ -44,11 +44,14 @@
 </p>
 ### ✍️ Random Dev Quote
 
+### ✍️ Random Dev Quote
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D" alt="quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=650&lines=%E2%80%9CThe+only+way+to+do+great+work+is+to+love+what+you+do.%E2%80%9D" alt="quote" />
 </p>
 
 <p align="center">
-  — <i>Linus Torvalds</i>
+  — <i>Steve Jobs</i>
 </p>
+
 
